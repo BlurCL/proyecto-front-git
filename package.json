@@ -2,5 +2,15 @@
   "dependencies": {
     "bootstrap": "^5.3.8",
     "react-router-dom": "^7.9.5"
-  }
+  },
+  "name": "proyecto-front-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
